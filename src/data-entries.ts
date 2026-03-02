@@ -182,6 +182,15 @@ export const workshopItems: Array<WorkshopItem> = [
 // input most recent ones at top
 export const RGItems: Array<RGItem> = [
   {
+    date: "February 26, 2026",
+    topic: "Parameter-Efficient Fine-Tuning",
+    leading: "Fiyin",
+    status: "completed",
+    room: "WALC 2127",
+    domain: ["Theory", "Optimization"],
+    slides: "https://docs.google.com/presentation/d/1BWCoDUieUJxv_k5CgnlEJL4r1s35FFE2FPKMX4s3npg/edit?usp=sharing"
+  },
+  {
     date: "February 19, 2026",
     topic: "Steering Vectors",
     leading: "Kabir Jain",
